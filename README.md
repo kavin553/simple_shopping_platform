@@ -1,4 +1,4 @@
-# simple_shopping_platform
+# simple_shopping_platform🛍👜🛒
 
 # 🛒 Simple Shopping App (Python)
 
